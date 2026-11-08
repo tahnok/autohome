@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Autohome</string>
+    <string name="service_description">Goes to the home screen when you unlock your phone after the screen has been off for a while, so you start fresh instead of landing back in the last app. Autohome reads no screen content.</string>
+    <string name="intro">When you unlock your phone after the screen has been off for at least the delay below, Autohome takes you to the home screen instead of the last app you used.</string>
+    <string name="status_on">Autohome is on</string>
+    <string name="status_off">Autohome is off. Turn it on under Accessibility settings.</string>
+    <string name="open_settings">Open accessibility settings</string>
+    <string name="restricted_hint">If the switch is greyed out, open App info for Autohome, tap ⋮ and choose \"Allow restricted settings\", then try again.</string>
+    <string name="delay_label">Delay: %1$s</string>
+</resources>
